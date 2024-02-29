@@ -1,0 +1,83 @@
+#App{
+    border: none;
+    margin: 3%;
+    background-color: white;
+    height: 4000px;
+    border-radius: 20px;
+    
+}
+
+.headphones{
+    display: flex;
+    justify-content: right;
+}
+
+
+.main-nav{
+    float: right;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.container{
+    display: block;
+    margin: 5%;
+
+}
+.images{
+    border: none;
+    margin: 5%;
+    width: 90%;
+
+}
+.main-images{
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.main-images2{
+    border: none;
+    justify-content: space-between;
+    display:flex;
+}
+
+.New{
+    display: flex;
+    display: inline-table;
+    border: none;
+    border-radius: 20px;
+    margin-block: 3%;
+    padding-right: 20px;
+    justify-content: right right;
+}
+
+.NewArrivals{
+    width: 90%;
+
+}
+
+.Discount{
+    border: none;
+    margin: 60px;
+    background-color: pink;
+    padding: 5px;
+}
+
+.HeadphonesDis{
+    display: flex;
+    justify-content: right;
+    padding: 30px;
+    background-color: pink;
+}
+
+h2{
+    color: red;
+}
+.Get{
+    display: flex;
+    justify-content: right;
+}
